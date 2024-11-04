@@ -2,6 +2,8 @@
 <h4 align="center">Computer Science Graduate from LICET | Passionate Developer</h4>
 
 
+<div align="center">
+
 ### Tech & Tools Overview
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -51,5 +53,5 @@
 ![Jest](https://img.shields.io/badge/jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white) 
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Material-UI](https://img.shields.io/badge/Material-UI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-
+</div>
 
