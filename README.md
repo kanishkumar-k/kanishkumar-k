@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanishkumar</h1>
 <h4 align="center">Computer Science Graduate from LICET | Passionate Developer</h4>
+<a href="mailto:kanishkumar0409@gmail.com" style="text-align:center;">📧 Email: kanishkumar0409@gmail.com</a>
 <div align="center"><br/>
 
 ### Tech & Tools Overview<br>
