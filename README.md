@@ -14,7 +14,7 @@
 
 ## 🌍 Connect with Me  
 
-<p align="center">
+<p>
   <a href="https://share.streamlit.io/user/kanishkumar-k/">
     <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
