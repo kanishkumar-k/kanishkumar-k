@@ -13,7 +13,9 @@
 </div>
 
 <br>
+
 ## Connect with Me  
+<br>
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishkumar-k)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kanish_kumar_)
