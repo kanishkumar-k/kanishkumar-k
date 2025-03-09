@@ -14,9 +14,10 @@
 
 ## 🌍 Connect with Me  
 
+<div align="center">
 [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/kanishkumar-k/) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishkumar-k) 
 [![CodePen](https://img.shields.io/badge/CodePen-%23181818?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/kanish0409) 
 [![Medium](https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kanishkumar0409) 
-[![GitHub](https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kanishkumar-k)  
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kanish_kumar_)  
+</div>
