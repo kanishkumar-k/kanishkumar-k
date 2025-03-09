@@ -12,7 +12,8 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkumar-k&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-## 🌍 Connect with Me  
+<br>
+## Connect with Me  
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishkumar-k)
   [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kanish_kumar_)
