@@ -15,20 +15,20 @@
 ## 🌍 Connect with Me  
 
 <p align="center">
-  <a href="https://linkedin.com/in/kanishkumar-k">
+  <a href="https://linkedin.com/in/kanishkumar-k" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://codepen.io/kanish0409">
-    <img src="https://img.shields.io/badge/CodePen-%23181818?style=for-the-badge&logo=codepen&logoColor=white" />
-  </a>
-    <a href="https://twitter.com/kanish_kumar_">
+  <a href="https://twitter.com/kanish_kumar_" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
   </a>
-  <a href="https://medium.com/@kanishkumar0409">
+  <a href="https://medium.com/@kanishkumar0409" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
-    <a href="https://share.streamlit.io/user/kanishkumar-k/">
+  <a href="https://codepen.io/kanish0409" style="text-decoration: none; border: none;">
+    <img src="https://img.shields.io/badge/CodePen-%23181818?style=for-the-badge&logo=codepen&logoColor=white" />
+  </a>
+  <a href="https://share.streamlit.io/user/kanishkumar-k/" style="text-decoration: none; border: none;">
     <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
-
 </p>
+
