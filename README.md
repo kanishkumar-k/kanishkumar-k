@@ -12,7 +12,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkumar-k&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-## 🌐 My Portfolio  
+## My Portfolio  
 
 🎨 **Check out my work and projects: [kanishkumar-k.netlify.app](https://kanishkumar-k.netlify.app/)**  
 
