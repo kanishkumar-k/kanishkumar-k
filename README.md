@@ -21,13 +21,14 @@
   <a href="https://codepen.io/kanish0409">
     <img src="https://img.shields.io/badge/CodePen-%23181818?style=for-the-badge&logo=codepen&logoColor=white" />
   </a>
+    <a href="https://twitter.com/kanish_kumar_">
+    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
   <a href="https://medium.com/@kanishkumar0409">
     <img src="https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white" />
   </a>
     <a href="https://share.streamlit.io/user/kanishkumar-k/">
     <img src="https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
-  <a href="https://twitter.com/kanish_kumar_">
-    <img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
+
 </p>
