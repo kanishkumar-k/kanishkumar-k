@@ -23,7 +23,7 @@
 <br>
 <br>
 
-## Connect with Me  
+## Connect and Follow Me  
 <br>
 
 
