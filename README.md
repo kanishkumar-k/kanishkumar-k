@@ -9,7 +9,7 @@
 <div align="center">
   <h1>I'm <b>Kanishkumar</b></h1>
   <p>
-    A <b>Computer Science Graduate</b> with a passion for software development and artificial intelligence.  
+    A <b>Computer Science Graduate</b> with a passion for software development.  
     I enjoy building scalable applications and exploring new technologies.
   </p>
 </div>
