@@ -19,7 +19,6 @@
 <a href="https://kanishkumar-k.netlify.app/" target="_blank">
 <img src="https://img.shields.io/badge/Visit%20Portfolio-%23FF4B42?style=for-the-badge&logo=netlify&logoColor=white" />
 </a>
-
 <br>
 <br>
 
