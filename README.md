@@ -18,7 +18,7 @@
 <br>
 
 
-## 🚀 About Me  
+## About Me  
 🎯 Passionate about building scalable applications and exploring AI & Machine Learning.  
 💻 Proficient in full-stack web development and software engineering.  
 📚 Always eager to learn and collaborate on exciting projects!  
