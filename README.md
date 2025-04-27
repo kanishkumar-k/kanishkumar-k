@@ -20,7 +20,7 @@
 ## About Me  
 🎯 Passionate about building scalable applications and exploring AI & Machine Learning.  
 💻 Familiar with full-stack web development and eager to grow in software engineering.  
-📚 Always eager to learn and collaborate on exciting projects!  
+📚 Eager to learn and collaborate on exciting projects!  
 
 <br>
 
