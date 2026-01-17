@@ -66,22 +66,25 @@
     <a href="https://linkedin.com/in/kanishkumar-k" target="_blank" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=linkedin" width="44" height="44"
       style="background:#0A66C2;padding:12px;border-radius:999px;margin:8px;" alt="LinkedIn"/>
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
 
   <a href="https://www.researchgate.net/profile/Kanishkumar-k" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="44" height="44" alt="ResearchGate"
       style="background:#E6FBF8;padding:12px;border-radius:999px;margin:8px;border:2px solid #00CCBB;" />
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+
 
   <a href="https://medium.com/@kanishkumar0409" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.simpleicons.org/medium/FFFFFF" width="44" height="44"
       style="background:#000000;padding:12px;border-radius:999px;margin:8px;" alt="Medium"/>
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+
 
   <a href="https://www.geeksforgeeks.org/user/kanishkumar0409/" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="44" height="44" alt="GeeksforGeeks"
       style="background:#EAF6EE;padding:12px;border-radius:999px;margin:8px;border:2px solid #2F8D46;" />
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
+
 
   <a href="https://share.streamlit.io/user/kanishkumar-k/" target="_blank" style="text-decoration:none;">
     <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="44" height="44" alt="Streamlit"
