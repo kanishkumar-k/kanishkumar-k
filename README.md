@@ -27,11 +27,26 @@
 ## Github Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kanishkumar-k&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kanishkumar-k&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+<table>
+<tr>
+<td>
+<img alt="GitHub stats" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=kanishkumar-k&theme=github&chart=bars" />
+</td>
+<td>
+<img alt="Language stats" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=kanishkumar-k&type=languages&theme=github&chart=bars" />
+</td>
+</tr>
+<tr>
+<td>
+<img alt="Contribution stats" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=kanishkumar-k&type=contributions&theme=github" />
+</td>
+<td>
+<img alt="Top Repos" src="https://git-hub-stats-card-generator.vercel.app/api/svg?username=kanishkumar-k&type=top-repos&theme=github" />
+</td>
+</tr>
+</table>
 </div>
 
-<br>
 
 ## My Portfolio  
 
@@ -43,21 +58,36 @@
 <br>
 <br>
 
-## Profile Links
 <br>
 
+<h2 align="center">Profile Links</h2>
 
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/kanishkumar-k)
-  [![ResearchGate](https://img.shields.io/badge/ResearchGate-FFA500?style=for-the-badge&logo=ieee&logoColor=white)](https://www.researchgate.net/profile/Kanishkumar-k)
-  [![Medium](https://img.shields.io/badge/Medium-%23000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@kanishkumar0409)
-  [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/kanish_kumar_)
-  [![CodePen](https://img.shields.io/badge/CodePen-%23181818?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/kanish0409)
-  [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-%2328A745?style=for-the-badge&logo=codepen&logoColor=white)](https://www.geeksforgeeks.org/user/kanishkumar0409/)
-  [![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://share.streamlit.io/user/kanishkumar-k/)
-<br>
+<div align="center">
+    <a href="https://linkedin.com/in/kanishkumar-k" target="_blank" style="text-decoration:none;">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="44" height="44"
+      style="background:#0A66C2;padding:12px;border-radius:999px;margin:8px;" alt="LinkedIn"/>
+  </a>
 
-<br>
+  <a href="https://www.researchgate.net/profile/Kanishkumar-k" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/researchgate/00CCBB" width="44" height="44" alt="ResearchGate"
+      style="background:#E6FBF8;padding:12px;border-radius:999px;margin:8px;border:2px solid #00CCBB;" />
+  </a>
 
+  <a href="https://medium.com/@kanishkumar0409" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/medium/FFFFFF" width="44" height="44"
+      style="background:#000000;padding:12px;border-radius:999px;margin:8px;" alt="Medium"/>
+  </a>
+
+  <a href="https://www.geeksforgeeks.org/user/kanishkumar0409/" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" width="44" height="44" alt="GeeksforGeeks"
+      style="background:#EAF6EE;padding:12px;border-radius:999px;margin:8px;border:2px solid #2F8D46;" />
+  </a>
+
+  <a href="https://share.streamlit.io/user/kanishkumar-k/" target="_blank" style="text-decoration:none;">
+    <img src="https://cdn.simpleicons.org/streamlit/FF4B4B" width="44" height="44" alt="Streamlit"
+      style="background:#FFECEC;padding:12px;border-radius:999px;margin:8px;border:2px solid #FF4B4B;" />
+  </a>
+</div>
 
 
 
