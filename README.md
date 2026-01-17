@@ -60,9 +60,9 @@
 
 <br>
 
-<h2 align="center">Profile Links</h2>
+<h2 align="left">Profile Links</h2>
 
-<div align="center">
+<div align="left">
     <a href="https://linkedin.com/in/kanishkumar-k" target="_blank" style="text-decoration:none;">
     <img src="https://skillicons.dev/icons?i=linkedin" width="44" height="44"
       style="background:#0A66C2;padding:12px;border-radius:999px;margin:8px;" alt="LinkedIn"/>
