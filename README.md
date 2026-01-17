@@ -7,9 +7,9 @@
 
 <br>
 <div align="center">
-  <h1>I'm <b>Kanishkumar</b></h1>
+  <h1>Hi there👋, I'm <b>Kanishkumar</b></h1>
   <p>
-    A <b>Computer Science Graduate</b> with a passion for software development.  
+    An <b>Entry level Software Engineer </b> with a passion for software development.  
     I enjoy building scalable applications and exploring new technologies.
   </p>
 </div>
