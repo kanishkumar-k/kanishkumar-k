@@ -14,8 +14,15 @@
   </p>
 </div>
 
-<h3 align="center">Email: <a href="mailto:kanishkumar0409@gmail.com">📧 kanishkumar0409@gmail.com</a></h3>
-<br>
+<table align="center" border="2" bordercolor="#111827" cellpadding="10" cellspacing="0">
+  <tr>
+    <td bgcolor="#F3F4F6" align="center">
+      <h3>
+        Email: <a href="mailto:kanishkumar0409@gmail.com">📧 kanishkumar0409@gmail.com</a>
+      </h3>
+    </td>
+  </tr>
+</table><br>
 
 ## About Me  
 🎯 Passionate about building scalable applications and exploring AI & Machine Learning.  
