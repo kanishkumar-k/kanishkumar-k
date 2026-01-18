@@ -59,7 +59,7 @@
 
 🎨 **Check out my work and projects:**  
 
-<a href="https://kanishkumar-k.netlify.app/" target="_blank">
+<a href="https://kanishkumar-k.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Visit%20Portfolio-%23FFD700?style=for-the-badge&logo=netlify&logoColor=black" />
 </a>
 <br>
